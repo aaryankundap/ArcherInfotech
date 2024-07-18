@@ -1,0 +1,1 @@
+alert("Welcome the beginning of the great journey")
